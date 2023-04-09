@@ -30,7 +30,7 @@ This project is an example of how to build an API using FastAPI, a modern, fast 
 
 1. Start the API server:
 
-uvicorn main:app --reload
+`uvicorn main:app --reload`
 
 2. Open the API documentation in your web browser:
 
