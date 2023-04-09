@@ -23,7 +23,7 @@ This project is an example of how to build an API using FastAPI, a modern, fast 
 
 2. Install the required packages:
 
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ### Executing program
