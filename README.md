@@ -18,7 +18,7 @@ This project is an example of how to build an API using FastAPI, a modern, fast 
 
 1. Clone the repository:
 
-`git clone https://github.com/sospeter-wainaina/API-Development-with-Fast-API.git
+`git clone https://github.com/sospeter-wainaina/API-Development-with-Fast-API.git`
 
 
 2. Install the required packages:
