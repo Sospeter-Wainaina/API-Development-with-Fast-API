@@ -39,7 +39,7 @@ http://localhost:8000/docs
 
 ## Authors
 
-* Your Name - [@sospeter-wainaina](https://github.com/sospeter-wainaina)
+* Sospeter Wainaina - [@sospeter-wainaina](https://github.com/sospeter-wainaina)
 
 ## License
 
